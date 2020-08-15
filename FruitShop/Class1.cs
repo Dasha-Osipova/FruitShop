@@ -10,7 +10,7 @@ namespace FruitShop
     {
         public void SetupList()
         {
-            var fruit = "apple";
+            var fruit = "pear";
         }
     }
 }
